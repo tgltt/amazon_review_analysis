@@ -1,0 +1,2 @@
+# amazon_review_analysis
+使用机器学习算法，对亚马讯客户评论数据进行情感分析
