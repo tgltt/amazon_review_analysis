@@ -1,6 +1,6 @@
 # amazon_review_analysis
 <b>1、项目说明</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;使用机器学习算法，对亚马讯客户评论数据进行情感分析<br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;采用半监督学习，使用机器学习算法，对亚马讯客户评论数据进行情感分析<br/><br/>
 
 <b>2、工程结构说明</b><br/>
 <img width="253" alt="391cf290308427bae06e8714f71151e" src="https://github.com/tgltt/amazon_review_analysis/assets/36066270/603f8a24-d403-4ffa-a828-bf9a477f47f1">
